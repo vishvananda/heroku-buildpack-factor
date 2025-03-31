@@ -1,5 +1,5 @@
 app = "$HEROKU_APP_NAME"
-url = "$HEROKU_APP_DEFAULT_DOMAIN_NAME"
+url = "https://$HEROKU_APP_DEFAULT_DOMAIN_NAME"
 path = "."
 
 [id]
